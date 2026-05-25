@@ -21,7 +21,7 @@ Projeto da disciplina **Projeto de Software**.
 
 ## Integrantes
 - Vinicius Arruda
-- Eeduardo Ramires
+- Eduardo Ramires
 - Gabriel Mai
 - Gabriel dos Reis
 - Felipe Isaia
