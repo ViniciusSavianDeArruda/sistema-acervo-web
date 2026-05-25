@@ -20,8 +20,8 @@ Projeto da disciplina **Projeto de Software**.
 - Model
 
 ## Integrantes
-- [Vinicius Arruda]
-- [Eeduardo Ramires]
-- [Gabriel Mai]
-- [Gabriel dos Reis]
-- [Felipe Isaia]
+- Vinicius Arruda
+- Eeduardo Ramires
+- Gabriel Mai
+- Gabriel dos Reis
+- Felipe Isaia
